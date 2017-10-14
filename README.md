@@ -1,2 +1,2 @@
 # xiaowen
-bolg
+blog
